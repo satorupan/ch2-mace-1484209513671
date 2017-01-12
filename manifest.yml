@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ch2-mace
+  host: ch2-mace
+  disk_quota: 1024M
